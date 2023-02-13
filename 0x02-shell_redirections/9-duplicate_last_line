@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n <icata >> icata 
+tail -n 1 <icata >> icata 
